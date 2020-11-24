@@ -1,0 +1,3 @@
+//.dotenv.dev
+NEXT_PUBLIC_APIURL=https://localhost:7001
+REACT_APP_API_TiMEOUT = 6000
